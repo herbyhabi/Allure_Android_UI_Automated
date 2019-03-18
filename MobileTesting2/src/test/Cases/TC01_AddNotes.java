@@ -12,7 +12,7 @@ import util.BasicTest;
 @Feature("add notes")
 public class TC01_AddNotes extends BasicTest {
 
-   HomePage homePage;
+  private HomePage homePage;
 
 
     @Step("to add a note Step")
@@ -20,7 +20,7 @@ public class TC01_AddNotes extends BasicTest {
     @Story("Add a new notes")
     @Description("Open the note app, to add a note")
     @Link("http://www.baidu.com")
-    @Issue("23211134")
+    @Issue("232134")
     @Severity(SeverityLevel.CRITICAL)
     @Test
     public void AddNotes(){
