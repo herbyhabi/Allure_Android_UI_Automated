@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0dafeeb-9d8c-4343-bf26-3300a7e98aa8" name="Default" comment="add vcs.xml file">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openAllureReport.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/allure.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Cases/TC01_AddNotes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Pages/BasicPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/util/BasicTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/util/FunctionUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/util/TestFailedListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/allure.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/site/allure-maven.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Cases/TC01_AddNotes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Pages/BasicPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Pages/HomePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/util/BasicTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/util/FunctionUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/util/TestFailedListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_output/allure-results/29b702c8-68af-420a-bbb5-1a393b28e675-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_output/allure-results/646115cf-8c7a-4163-80ab-8aa4fa55c225-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_output/allure-results/6d56378c-4e8e-4b48-93e7-ce267f498c4d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_output/allure-results/c7f975d0-b961-4c70-a0ee-fcf453c6685f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_output/screenshots/TC01_AddNotes.AddNotes20190318100116.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_output/screenshots/TC01_AddNotes.AddNotes20190318100458.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_output/screenshots/TC01_AddNotes.AddNotes20190318102625.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b0dafeeb-9d8c-4343-bf26-3300a7e98aa8" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,8 +16,8 @@
       <file leaf-file-name="TC01_AddNotes.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/Cases/TC01_AddNotes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            <state relative-caret-position="133">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -401,7 +370,14 @@
       <option name="project" value="LOCAL" />
       <updated>1552921149312</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add the whole project">
+      <created>1552921421488</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552921421489</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -442,13 +418,13 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.3298969" />
+      <window_info active="true" anchor="bottom" id="Messages" order="9" visible="true" weight="0.32874355" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50117093" side_tool="true" weight="0.37693632" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49882904" visible="true" weight="0.37693632" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49882904" weight="0.37693632" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.66494846" />
       <window_info id="Capture Tool" order="6" />
@@ -501,7 +477,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add vcs.xml file" />
-    <option name="LAST_COMMIT_MESSAGE" value="add vcs.xml file" />
+    <MESSAGE value="add the whole project" />
+    <option name="LAST_COMMIT_MESSAGE" value="add the whole project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -872,8 +849,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/Cases/TC01_AddNotes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        <state relative-caret-position="133">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

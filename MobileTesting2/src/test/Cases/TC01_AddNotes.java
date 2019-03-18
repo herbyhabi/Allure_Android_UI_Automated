@@ -20,7 +20,7 @@ public class TC01_AddNotes extends BasicTest {
     @Story("Add a new notes")
     @Description("Open the note app, to add a note")
     @Link("http://www.baidu.com")
-    @Issue("232111")
+    @Issue("23211134")
     @Severity(SeverityLevel.CRITICAL)
     @Test
     public void AddNotes(){
