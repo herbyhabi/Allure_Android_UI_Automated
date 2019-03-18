@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <!--设置监听器，case失败，生成截图-->
+        <!--用allure的@attachment, 把截图显示在报告中-->
+        <!--同时，把截图存放在指定位置-->
+        <listener class-name="util.TestFailedListener" />
+    </listeners>
+    <test verbose="2" preserve-order="true" name="C:/Users/herby/IdeaProjects/MobileTesting2">
+    <classes>
+        <class name="Cases.TC01_AddNotes">
+            <methods><include name="AddNotes"/>
+            </methods>
+        </class>
+    </classes>
+    </test>
+</suite>
